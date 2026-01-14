@@ -85,6 +85,7 @@ Accuracy improves with:
 More data
 More epochs
 Cleaner text
+
 ⚠️ Small dataset = limited vocabulary (expected behavior)
 🧪 Experiments You Can Try
 Increase epochs (50 → 200)
