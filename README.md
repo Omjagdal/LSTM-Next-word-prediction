@@ -134,14 +134,3 @@ Execute all cells in sequence
 
 ### Step 4: Make Predictions
 Use the trained model to predict next words
-
-## 📝 License
-MIT License
-
-## 👤 Author
-Your Name - OM JAGDALE
-
-## 🙏 Acknowledgments
-- TensorFlow Documentation
-- Keras LSTM Tutorials
-- Google Colab Community
