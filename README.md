@@ -103,10 +103,7 @@ Training loss is the main metric. Accuracy improves with:
 - NLP learning
 - Academic demonstrations
 
-## ❗ Limitations
-- Works best on small, clean datasets
-- Grammar may not always be perfect
-- Not comparable to large language models
+
 
 ## ✅ Conclusion
 This project demonstrates how LSTM networks can learn language patterns and perform next word prediction using a small dataset in Google Colab. It is simple, educational, and ideal for student projects.
