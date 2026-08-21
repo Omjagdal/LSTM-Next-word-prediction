@@ -8,7 +8,7 @@ The project is suitable for:
 - Academic mini / final-year projects
 - Demonstrations using Google Colab (no local setup required)
 
-## 🧠 Problem Statement 
+##  Problem Statement 
 Given a sequence of words, predict the next word using a deep learning model.
 
 **Example:**
