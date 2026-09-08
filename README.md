@@ -1,5 +1,5 @@
 
-## 📌 Project Overview
+##  Project Overview
 This project implements a Next Word Prediction system using LSTM in Google Colab. The model learns from a small text dataset and predicts the next most likely word for a given input sequence.
 
 The project is suitable for:
