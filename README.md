@@ -22,7 +22,7 @@ Output : "powerful"
 - Easy sharing and reproducibility
 - Ideal for student projects
 
-## 📊 Dataset
+##  Dataset
 **Format:** `.txt`  
 **Size:** Small (5 KB – 200 KB recommended)  
 **Content examples:**
@@ -37,7 +37,7 @@ Deep learning is a subset of machine learning.
 Machine learning is a part of artificial intelligence.
 ```
 
-## ⚙️ Libraries Used
+## Libraries Used
 All libraries are pre-installed in Colab.
 ```python
 import tensorflow as tf
@@ -45,7 +45,7 @@ import numpy as np
 import pickle
 ```
 
-## 🏗️ Model Architecture
+##  Model Architecture
 The model consists of:
 - Embedding Layer
 - LSTM Layer
@@ -56,7 +56,7 @@ The model consists of:
 Text → Tokenizer → Embedding → LSTM → Dense → Next Word
 ```
 
-## 🚀 Training the Model (Colab)
+##  Training the Model (Colab)
 1. Upload `text.txt` to Colab
 2. Run the training notebook
 3. Train the model:
@@ -69,7 +69,7 @@ model.fit(X, y, epochs=100, verbose=1)
 - Model learns word sequences
 - Trained model is saved as `lstm_model.h5`
 
-## 🔮 Predicting the Next Word
+##  Predicting the Next Word
 **Example usage:**
 ```python
 seed_text = "deep learning is"
@@ -88,15 +88,15 @@ Training loss is the main metric. Accuracy improves with:
 - More epochs
 - Cleaner text
 
-⚠️ **Note:** Small dataset = limited vocabulary (expected behavior)
+ **Note:** Small dataset = limited vocabulary (expected behavior)
 
-## 🧪 Experiments You Can Try
+##  Experiments You Can Try
 - Increase epochs (50 → 200)
 - Change sequence length
 - Add another LSTM layer
 - Use larger text file
 
-## 🎓 Applications
+##  Applications
 - Text auto-completion
 - Chatbot basics
 - NLP learning
@@ -104,11 +104,11 @@ Training loss is the main metric. Accuracy improves with:
 
 
 
-## ✅ Conclusion
+##  Conclusion
 This project demonstrates how LSTM networks can learn language patterns and perform next word prediction using a small dataset in Google Colab. It is simple, educational, and ideal for student projects.
 
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Step 1: Open Google Colab
 Go to [Google Colab](https://colab.research.google.com/)
