@@ -16,7 +16,7 @@ Input  : "machine learning is"
 Output : "powerful"
 ```
 
-## ☁️ Why Google Colab
+##  Why Google Colab
 - No installation required
 - Free GPU/CPU support
 - Easy sharing and reproducibility
