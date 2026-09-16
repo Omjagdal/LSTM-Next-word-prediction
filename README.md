@@ -108,8 +108,6 @@ Training loss is the main metric. Accuracy improves with:
 This project demonstrates how LSTM networks can learn language patterns and perform next word prediction using a small dataset in Google Colab. It is simple, educational, and ideal for student projects.
 
 
-##  Getting Started
-
 ### Step 1: Open Google Colab
 Go to [Google Colab](https://colab.research.google.com/)
 
