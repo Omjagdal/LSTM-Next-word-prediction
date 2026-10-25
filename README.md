@@ -82,7 +82,7 @@ print(next_word)
 deep learning is powerful
 ```
 
-## 📈 Evaluation
+## Evaluation
 Training loss is the main metric. Accuracy improves with:
 - More data
 - More epochs
