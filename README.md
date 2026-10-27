@@ -96,7 +96,7 @@ Training loss is the main metric. Accuracy improves with:
 - Add another LSTM layer
 - Use larger text file
 
-##  Applications
+# Applications
 - Text auto-completion
 - Chatbot basics
 - NLP learning
